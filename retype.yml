@@ -1,5 +1,5 @@
 input: .
-output: .dist
+output: ./docs
 url: 
 branding:
   title: M114
@@ -11,3 +11,4 @@ footer:
   copyright: "Educational Project for TBZ"
 - favicon: assets/icon.png
 - icon: ./assets/icon.png
+ 
