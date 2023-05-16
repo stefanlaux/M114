@@ -1,0 +1,13 @@
+input: .
+output: .dist
+url: 
+branding:
+  title: M114
+  label: Docs
+links:
+- text: Resourcen
+  link: https://gitlab.com/ch-tbz-it/Stud/m114
+footer:
+  copyright: "Educational Project for TBZ"
+- favicon: assets/icon.png
+- icon: ./assets/icon.png
